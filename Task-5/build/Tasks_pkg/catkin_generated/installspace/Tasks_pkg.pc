@@ -1,0 +1,8 @@
+prefix=/home/sayed/Desktop/Course-Ros/Task-5/install
+
+Name: Tasks_pkg
+Description: Description of Tasks_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
